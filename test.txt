@@ -5,3 +5,4 @@ changes3
 changes4
 
 change in v1.0
+change 2 in v1.0
